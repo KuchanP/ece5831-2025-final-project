@@ -1,26 +1,35 @@
 ########################################
-# Dataset (DO NOT upload to GitHub)
+# Dataset (DO NOT upload)
 ########################################
 data/
 data.zip
 
 ########################################
-# Training outputs (optional large files)
+# Trained model files (VERY LARGE)
+# Keep outputs/, but exclude model weights
 ########################################
-# If outputs are too large, keep zipped externally
-# outputs/
-# outputs.zip
+*.keras
+*.h5
+*.ckpt
+*.pt
+*.pth
 
 ########################################
-# Python cache files
+# TensorFlow / Keras checkpoints
+########################################
+checkpoint
+checkpoints/
+**/checkpoints/
+
+########################################
+# Python cache
 ########################################
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
 
 ########################################
-# Jupyter Notebook
+# Jupyter
 ########################################
 .ipynb_checkpoints/
 
@@ -40,7 +49,7 @@ Thumbs.db
 .vscode/
 
 ########################################
-# Logs and temporary files
+# Logs / temp
 ########################################
 *.log
 *.tmp
