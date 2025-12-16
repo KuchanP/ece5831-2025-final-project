@@ -1,0 +1,12 @@
+{
+  "split_basis": "test",
+  "run_name": "VGG16",
+  "run_dir": "outputs/train_runs/VGG16",
+  "loss": 1.0139096975326538,
+  "accuracy": 0.7639302611351013,
+  "precision": 0.6902912943269578,
+  "recall": 0.5916407046214965,
+  "f1": 0.61746774617616,
+  "rank_score": 5.0,
+  "num_samples": 7053
+}

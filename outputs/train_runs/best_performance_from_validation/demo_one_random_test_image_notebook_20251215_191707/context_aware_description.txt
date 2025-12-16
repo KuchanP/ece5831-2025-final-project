@@ -1,0 +1,1 @@
+Scene: a view of a road with trees and a sky. One traffic sign was detected: a far 'complementary--chevron-left--g1' sign on the center side. For the sign on the center side, alternative candidate labels include 'complementary--chevron-right--g1', 'regulatory--priority-road--g4', 'complementary--chevron-right-unsure--g6'.

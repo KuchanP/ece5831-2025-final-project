@@ -1,0 +1,2 @@
+image_path,xmin,ymin,xmax,ymax,true_label,pred_label,pred_conf,relative_size,position,topk_alt_labels
+data/raw/mtsd_extracted/Dataset/images/TzCB_38XXR9TfYP-ICGzqw.jpg,2185,1507,2236,1555,regulatory--priority-road--g4,complementary--chevron-left--g1,0.021849893033504486,far,right,complementary--chevron-right--g1; regulatory--priority-road--g4
