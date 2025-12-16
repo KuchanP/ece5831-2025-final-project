@@ -1,4 +1,4 @@
-# ECE5831 Final Project (2025)
+# ECE5831 Final Project (Fall 2025)
 
 ## Project Title
 Traffic Sign Classification with Context-Aware Scene Description using Deep Learning
